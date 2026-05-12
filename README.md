@@ -92,7 +92,7 @@
 
 ```yaml
 Education:
-  - GPA: 3.66/4.0 (Excellent Academic Performance)
+  - GPA: 3.19/4.0 (Excellent Academic Performance)
   - Total Credits: 93+ credits completed
   - Notable Courses:
       - Advanced Programming (Python, Java, C#)
